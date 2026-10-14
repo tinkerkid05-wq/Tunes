@@ -4,7 +4,12 @@ A Spotify-style music player for Windows for the music on your PC.
 
 <img src="icon.png" width="120">
 
-## Download
+## 📱 Android: [Download Tunes for Android (Tunes.apk)](https://github.com/tinkerkid05-wq/Tunes/releases/latest/download/Tunes.apk)
+
+Tap the link above in **Chrome**, then open the download and tap **Install**. If Android asks, allow installs from Chrome.
+It plays the music saved on your phone.
+
+## 💻 Windows
 
 1. Download **[Tunes.exe](../../releases/latest/download/Tunes.exe)** from the latest release.
 2. Run it. It's one file, with nothing to install, on Windows 10 or 11.
